@@ -60,8 +60,8 @@ import threading
 import time
 import urllib.parse
 
-from oslo_config import cfg
 import oslo_messaging
+from oslo_config import cfg
 
 # Register configuration options
 cfg.CONF.register_cli_opt(

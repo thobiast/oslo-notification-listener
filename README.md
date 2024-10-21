@@ -82,4 +82,3 @@ single_threaded = False
 [notification]
 publisher_id_filter = ^compute.*
 ```
-
